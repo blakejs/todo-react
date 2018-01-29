@@ -1,6 +1,9 @@
 # To-do Web App with React
 
-Example of a To-do app built with React
+Example of a To-do app built with React.
+
+![alt text](https://raw.githubusercontent.com/zutton/todo-react/public/show.png)
+
 
 ## Getting Started
 
@@ -55,4 +58,4 @@ npm run start:prod
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+MIT License
