@@ -2,7 +2,7 @@
 
 Example of a To-do app built with React.
 
-![alt text](https://raw.githubusercontent.com/zutton/todo-react/public/show.png)
+![Example of app](example.png)
 
 
 ## Getting Started
